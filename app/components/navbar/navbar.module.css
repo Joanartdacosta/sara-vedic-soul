@@ -1,0 +1,12 @@
+.navBarMenu {
+  display: inline-flex;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  float: right;
+}
+
+.link {
+  text-decoration: none;
+  padding: 30px;
+}
