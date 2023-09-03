@@ -1,0 +1,19 @@
+.servicesMenu {
+  /* display: flex; */
+  align-items: center;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.service {
+  margin-top: 300px;
+  margin-bottom: 300px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  color: white;
+  padding: 100px;
+}
