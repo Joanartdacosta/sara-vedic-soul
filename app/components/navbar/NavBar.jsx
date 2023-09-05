@@ -4,7 +4,13 @@ import Link from "next/link";
 
 export default function NavBar() {
   return (
-    <div className={navBarStyles.navBarMenu}>
+    <div id="navbar" className={navBarStyles.navBarMenu}>
+      <img
+        className={navBarStyles.menuIcon}
+        src="https://joana-personal-website.s3.eu-central-1.amazonaws.com/sara-vedic-soul/icon-menu.png"
+        alt="menu-icon"
+      />
+
       <Link className={navBarStyles.link} href={"#contact"}>
         Contact
       </Link>

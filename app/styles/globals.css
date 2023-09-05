@@ -82,17 +82,20 @@
 html,
 body {
   max-width: 100vw;
+
   /* overflow-x: hidden; */
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  background-color: rgb(142, 166, 153);
+  color: #1d5249;
+  /* color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
-    rgb(var(--background-start-rgb));
+    rgb(var(--background-start-rgb)); */
 }
 
 a {
