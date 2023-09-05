@@ -1,0 +1,14 @@
+.logoLink {
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  margin: 5px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.textFooter {
+  margin-bottom: 80px;
+}
